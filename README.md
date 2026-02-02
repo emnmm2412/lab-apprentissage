@@ -1,1 +1,2 @@
-# lab-apprentissage
+# lab-apprentissage  
+CECI EST UN ESSAI POUR LA MAITRISE DE GIT_HUB;
